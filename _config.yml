@@ -23,7 +23,7 @@ name                     : "Ian Agpawa"
 description              : "Just an entertainment blog covering all things watched and heard."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/ianagpawa/check-it # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Ian Agpawa"
   avatar           : "/assets/images/ernily-5ytbbjqM4js-unsplash.jpg"
-  bio              : "Just looking for something interesting"
+  bio              : "Is a folded pizza slice a taco?  Does folding a whole pizza make it a quesadilla?"
   location         : "I'm from the internet"
   email            :
   links:

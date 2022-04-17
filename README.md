@@ -3,7 +3,7 @@
 
 ---
 ## Quick start
-Clone repo: `git clone https://github.com/ianagpawa/checkit.git`
+Clone repo: `git clone https://github.com/ianagpawa/check-it.git`
 
 ### Prerequesites
 - Install `ruby`, [Ruby-3.1.1-1 Quickstart](https://jekyllrb.com/docs/installation/).
@@ -39,4 +39,5 @@ Clone repo: `git clone https://github.com/ianagpawa/checkit.git`
 - [Jekyll](http://jekyllrb.com/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
 - [Unsplash](https://unsplash.com)
+- [Pexels](https://pexels.com)
 ---
