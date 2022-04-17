@@ -1,47 +1,28 @@
-### Quickstart
+# CheckIt
+#### An entertainment blog  focusing on movie, show and music recommendations built on Jekyll and [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
-#### Install Ruby
-###
+---
+## Quick start
+Clone repo: `git clone https://github.com/ianagpawa/checkit.git`
 
-bundle install
+### Prerequesites
+- Install `ruby`, [Ruby-3.1.1-1 Quickstart](https://jekyllrb.com/docs/installation/).
+   * [Installer with Dev Kit ](https://rubyinstaller.org/downloads/)
+   * During install stage, when prompted, run `ridk install` option.
+   * Verify install by running the `ruby -v` command.
 
-bundle update
+- Install `jekyll`: [Jekyll-4.2.2 Quickstart](https://jekyllrb.com/docs/)
+   * After installing Ruby, run command `gem install jekyll bundler`.
+   * Verify install by running the `jekyll -v` command.
+---
+## Project setup.
 
-cd _site && bundle exec jekyll server
-
-
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
-
-To update the theme run `bundle update`.
-
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   gem "jekyll-include-cache", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
+### Install Gems
+   Run command `bundle install`.
+### Update Gems
+   Run command `bundle update`.
+### Development server on local
+   Run `bundle exec jekyll serve` to serve the app locally on `http://localhost:4000/`. The app requires manual reload of the browser if there are any changes made.
 
 ---
 
@@ -50,12 +31,8 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 ### Creator
 
 **Ian Agpawa**
-
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
-
-### Icons + Demo Images:
+- agpawaji@gmail.com
+- <https://github.com/ianagpawa>
 
 ### Other:
 
