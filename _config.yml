@@ -103,16 +103,16 @@ analytics:
 # Site Author
 author:
   name             : "Ian Agpawa"
-  avatar           : "/assets/images/ernily-5ytbbjqM4js-unsplash.jpg"
-  bio              : "Is a folded pizza slice a taco?  Does folding a whole pizza make it a quesadilla?"
+  avatar           : "/assets/images/pexels-ruslan-alekso-1936885.jpg"
+  bio              : "Folding a pizza makes it a quesadilla, unless it's a slice, then it becomes a taco."
   location         : "I'm from the internet"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Portfolio"
+      icon: "fab fa-fw fa-galactic-republic"
       url: "https://ianagpawa.github.io/portfolio/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

@@ -6,12 +6,12 @@
 Clone repo: `git clone https://github.com/ianagpawa/check-it.git`
 
 ### Prerequesites
-- Install `ruby`, [Ruby-3.1.1-1 Quickstart](https://jekyllrb.com/docs/installation/).
+- Install `ruby`, [Ruby 2.7.5 Quickstart](https://jekyllrb.com/docs/installation/).
    * [Installer with Dev Kit ](https://rubyinstaller.org/downloads/)
    * During install stage, when prompted, run `ridk install` option.
    * Verify install by running the `ruby -v` command.
 
-- Install `jekyll`: [Jekyll-4.2.2 Quickstart](https://jekyllrb.com/docs/)
+- Install `jekyll`: [Jekyll 4.2.2 Quickstart](https://jekyllrb.com/docs/)
    * After installing Ruby, run command `gem install jekyll bundler`.
    * Verify install by running the `jekyll -v` command.
 ---

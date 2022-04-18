@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Dr.Jekyll"
+title:  "Dr. Jekyll"
 date:   2022-04-10 23:28:17 -0400
 categories: jekyll update
 ---
