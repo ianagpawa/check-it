@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "CheckIt"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "this.watch();this.listen();this.read();" # site tagline that appears below site title in masthead
 name                     : "Ian Agpawa"
 description              : "Just an entertainment blog covering all things watched and heard."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/ianagpawa/check-it # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -103,26 +103,26 @@ analytics:
 # Site Author
 author:
   name             : "Ian Agpawa"
-  avatar           : "/assets/images/ernily-5ytbbjqM4js-unsplash.jpg"
-  bio              : "Just looking for something interesting"
+  avatar           : "/assets/images/pexels-ruslan-alekso-1936885.jpg"
+  bio              : "Folding a pizza makes it a quesadilla, unless it's a slice, then it becomes a taco."
   location         : "I'm from the internet"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Portfolio"
+      icon: "fab fa-fw fa-galactic-republic"
+      url: "https://ianagpawa.github.io/portfolio/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/ianagpawa"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ianagpawa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

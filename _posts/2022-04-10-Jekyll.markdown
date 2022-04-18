@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Dr.Jekyll"
+title:  "Dr. Jekyll"
 date:   2022-04-10 23:28:17 -0400
 categories: jekyll update
 ---
-I've decided to create an entertainment blog using Jekyll and Github pages.
+I've decided to create an entertainment blog using Github pages, Jekyll, and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
