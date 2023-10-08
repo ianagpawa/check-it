@@ -1,23 +1,15 @@
 {
-  "name": "minimal-mistakes",
+  "name": "check-it-blog",
   "private": true,
   "version": "4.24.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
-  },
+  "description": "Personal blog using Minimal Mistakes 2 column Jekyll theme.",
   "keywords": [
     "jekyll",
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Ian Agpawa",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -33,6 +25,6 @@
     "build:js": "npm run uglify && npm run add-banner",
     "bundle:install": "bundle install",
     "bundle:update": "bundle update",
-    "bundle:start": "bundle exec jekyll serve" 
+    "bundle:start": "bundle exec jekyll serve"
   }
 }
